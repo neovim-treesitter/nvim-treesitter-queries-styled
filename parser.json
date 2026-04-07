@@ -1,7 +1,7 @@
 {
   "lang": "styled",
-  "parser_version": "319cdcaa0346ba6db668a222d938e5c3569e2a51",
   "location": null,
+  "url": "https://github.com/mskelton/tree-sitter-styled",
   "semver": false,
-  "url": "https://github.com/mskelton/tree-sitter-styled"
+  "parser_version": "319cdcaa0346ba6db668a222d938e5c3569e2a51"
 }
